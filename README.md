@@ -3,4 +3,3 @@
 
 "graph_conv_model.py"：Implementing Graph Convolutional Neural Networks
 
-"meppo.py":Part of the implementation of the MEPPO algorithm, and the rest of the modifications are included in the "state_presentation.py", "rlagent.py" and "learner.py", which can be found by searching for "meppo".
